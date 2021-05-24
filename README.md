@@ -1,9 +1,3 @@
 # groupProjectTest
 
-
-hello This is nehal
-hello eveyone
-hello everyone!!!!
-=======
-Mandira
-
+I tried using github desktop	 ~Nehal
